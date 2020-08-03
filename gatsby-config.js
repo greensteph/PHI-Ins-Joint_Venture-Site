@@ -17,7 +17,7 @@ module.exports = {
         items: [{ text: 'GSA STARS III', link: '/gsa-stars-III' },],
       },
       {
-        items: [{ text: 'Navigation link', link: '/' }],
+        items: [{ text: 'How To Order', link: '/how-to-order' }],
       },
     ],
     secondaryLinks: [
