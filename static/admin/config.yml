@@ -2,14 +2,14 @@ backend:
   name: github
   repo: greensteph/PHI-Ins-Joint_Venture-Site
   base_url: 
-  auth_endpoint: external/auth/github
+  auth_endpoint: 
   branch: main
   preview_context: 
 
 media_folder: static/images
 public_folder: /images
 publish_mode: editorial_workflow
-logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
+
 
 collections:
   - name: blog
