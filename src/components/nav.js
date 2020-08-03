@@ -2,7 +2,7 @@ import { Link } from 'gatsby';
 import React from 'react';
 
 import close from '../../node_modules/uswds/dist/img/close.svg';
-import SearchForm from './search-form';
+// import SearchForm from './search-form';
 
 const Nav = ({ navigation, secondaryLinks }) => (
   <nav role="navigation" className="usa-nav">
@@ -56,7 +56,6 @@ const Nav = ({ navigation, secondaryLinks }) => (
             </li>
           ))}
         </ul>
-        <SearchForm />
       </div>
     </div>
   </nav>
