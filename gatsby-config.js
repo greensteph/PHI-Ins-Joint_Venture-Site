@@ -14,17 +14,10 @@ module.exports = {
         items: [{ text: 'About Us', link: '/about' }],
       },
       {
-        items: [
-          { text: 'Document with sidenav', link: '/document-with-sidenav' },
-        ],
+        items: [{ text: 'GSA STARS III', link: '/gsa-stars-III' },],
       },
       {
-        title: 'Document submenu',
-        items: [
-          { text: 'Navigation link', link: '/' },
-          { text: 'Navigation link', link: '/' },
-          { text: 'Navigation link', link: '/' },
-        ],
+        items: [{ text: 'Navigation link', link: '/' }],
       },
     ],
     secondaryLinks: [
