@@ -11,7 +11,7 @@ module.exports = {
         items: [{ text: 'Blog', link: '/blog' }],
       },
       {
-        items: [{ text: 'Document', link: '/document' }],
+        items: [{ text: 'About Us', link: '/about' }],
       },
       {
         items: [
