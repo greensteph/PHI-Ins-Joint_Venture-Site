@@ -5,7 +5,7 @@ import React from 'react';
 */
 
 const Hero = () => (
-  <section className="usa-hero">
+  <section className="usa-hero height-mobile">
     <div className="grid-container">
       {/* <div className="usa-hero__callout">
         <h2 className="usa-hero__heading">
