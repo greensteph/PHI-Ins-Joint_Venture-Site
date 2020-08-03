@@ -1,9 +1,8 @@
 module.exports = {
   siteMetadata: {
-    author: 'Foo',
-    title: `Agency Name`,
-    description: `Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.`,
+    author: 'Stephanie Green',
+    title: `Joint Venture Name`,
+    description: `A joint venture between Potomac Haven Inc & Inserso.`,
     navigation: [
       {
         items: [{ text: 'Home', link: '/' }],
