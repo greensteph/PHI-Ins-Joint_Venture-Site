@@ -8,9 +8,6 @@ module.exports = {
         items: [{ text: 'Home', link: '/' }],
       },
       {
-        items: [{ text: 'Blog', link: '/blog' }],
-      },
-      {
         items: [{ text: 'About Us', link: '/about' }],
       },
       {
