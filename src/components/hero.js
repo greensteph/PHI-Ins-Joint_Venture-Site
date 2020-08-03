@@ -7,7 +7,7 @@ import React from 'react';
 const Hero = () => (
   <section className="usa-hero">
     <div className="grid-container">
-      <div className="usa-hero__callout">
+      {/* <div className="usa-hero__callout">
         <h2 className="usa-hero__heading">
           <span className="usa-hero__heading--alt">Hero callout:</span>Bring
           attention to a project priority
@@ -19,7 +19,7 @@ const Hero = () => (
         <a className="usa-button" href="/">
           Call to action
         </a>
-      </div>
+      </div> */}
     </div>
   </section>
 );
