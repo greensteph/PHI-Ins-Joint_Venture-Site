@@ -16,16 +16,14 @@ const Footer = () => (
           <div className="tablet:grid-col"></div>
           <div className="tablet:grid-col">
             <ul className="add-list-reset">
-              <li>Footer link</li>
-              <li>Footer link</li>
-              <li>Footer link</li>
+              <li><a href="/about"><span>About Us</span></a></li>
+              <li><a href="/contact-us"><span>Contact Us</span></a></li>
             </ul>
           </div>
           <div className="tablet:grid-col">
-            <ul className="add-list-reset">
-              <li>Footer link</li>
-              <li>Footer link</li>
-              <li>Footer link</li>
+          <ul className="add-list-reset">
+              <li><a href="/gsa-stars-III"><span>GSA STARS III</span></a></li>
+              <li><a href="/how-to-order"><span>How To Order</span></a></li>
             </ul>
           </div>
         </div>

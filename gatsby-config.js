@@ -16,6 +16,9 @@ module.exports = {
       {
         items: [{ text: 'How To Order', link: '/how-to-order' }],
       },
+      {
+        items: [{ text: 'Contact Us', link: '/contact-us' }],
+      },
     ],
     secondaryLinks: [
       { text: 'Secondary link', link: '/' },
