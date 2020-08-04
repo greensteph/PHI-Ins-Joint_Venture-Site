@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     author: 'Stephanie Green',
-    title: `Joint Venture Name`,
+    title: `Tygrove Technologies`,
     description: `A joint venture between Potomac Haven Inc & Inserso.`,
     navigation: [
       {
