@@ -5,7 +5,7 @@ sidenav: false
 
 # Contact Us
 
-<form class="usa-form" name="contact" method="POST" data-netlify="true" Content-type="application/x-www-form-urlencoded">
+<form class="usa-form" name="contact" netlify>
   <fieldset class="usa-fieldset">
     <label class="usa-label" for="full-name">Name:</label>
     <input class="usa-input" id="full-name" name="full-name" type="text" required aria-required="true">
