@@ -5,7 +5,8 @@ sidenav: false
 
 # Contact Us
 
-<form class="usa-form" method="POST" name="contact" data-netlify="true">
+<form class="usa-form" method="POST" name="contact" data-netlify="true" action="/contact-thank-you">
+  <input type="hidden" name="form-name" value="contact" />
   <fieldset class="usa-fieldset">
     <label class="usa-label" for="full-name">Name:</label>
     <input class="usa-input" id="full-name" name="full-name" type="text" required aria-required="true">
