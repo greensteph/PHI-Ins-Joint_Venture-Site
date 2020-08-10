@@ -13,7 +13,7 @@ const Highlights = () => (
           <img className="usa-media-block__img" src={circle} alt="Alt text" />
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              Graphic headings can vary.
+              Our companies
             </h3>
             <p>
               Graphic headings can be used a few different ways, depending on
@@ -26,7 +26,7 @@ const Highlights = () => (
           <img className="usa-media-block__img" src={circle} alt="Alt text" />
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
-              Stick to 6 or fewer words.
+              Our Management Team
             </h3>
             <p>
               Keep body text to about 30 words. They can be shorter, but try to
