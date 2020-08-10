@@ -2,6 +2,8 @@
 title: GSA STARS III
 sidenav: false
 ---
+<!-- permalink: /gsa-stars-III -->
+
 # Learn More About GSA STARS III
 
 <!-- Similar to <http://www.dsg-inserso.com/starsii.html>

@@ -11,9 +11,6 @@ module.exports = {
         items: [{ text: 'About Us', link: '/about' }],
       },
       {
-        items: [{ text: 'GSA STARS III', link: '/gsa-stars-III' },],
-      },
-      {
         items: [{ text: 'Contact Us', link: '/contact-us' }],
       },
     ],
