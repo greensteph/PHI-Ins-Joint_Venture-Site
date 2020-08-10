@@ -1,5 +1,7 @@
 import React from 'react';
 import circle from '../../node_modules/uswds/dist/img/circle-124.png';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faAddressCard, faCommentAlt, faHandshake } from '@fortawesome/free-regular-svg-icons'
 
 /*
   Use this section to highlight key elements of your site. Some sites will only have two while others may have six to eight. 
@@ -10,7 +12,7 @@ const Highlights = () => (
     <div className="grid-container">
       <div className="usa-graphic-list__row grid-row grid-gap">
         <div className="usa-media-block tablet:grid-col">
-          <img className="usa-media-block__img" src={circle} alt="Alt text" />
+          <FontAwesomeIcon icon={faHandshake} size="5x" className="usa-media-block__img" alt="" />
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
               Our companies
@@ -23,7 +25,7 @@ const Highlights = () => (
           </div>
         </div>
         <div className="usa-media-block tablet:grid-col">
-          <img className="usa-media-block__img" src={circle} alt="Alt text" />
+          <FontAwesomeIcon icon={faAddressCard} size="5x" className="usa-media-block__img" alt="" />
           <div className="usa-media-block__body">
             <h3 className="usa-graphic-list__heading">
               Our Management Team
