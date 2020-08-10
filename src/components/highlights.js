@@ -36,34 +36,6 @@ const Highlights = () => (
           </div>
         </div>
       </div>
-      <div className="usa-graphic-list__row grid-row grid-gap">
-        <div className="usa-media-block tablet:grid-col">
-          <img className="usa-media-block__img" src={circle} alt="Alt text" />
-          <div className="usa-media-block__body">
-            <h3 className="usa-graphic-list__heading">
-              Never highlight anything without a goal.
-            </h3>
-            <p>
-              For anything you want to highlight here, understand what your
-              users know now, and what activity or impression you want from them
-              after they see it.
-            </p>
-          </div>
-        </div>
-        <div className="usa-media-block tablet:grid-col">
-          <img className="usa-media-block__img" src={circle} alt="Alt text" />
-          <div className="usa-media-block__body">
-            <h3 className="usa-graphic-list__heading">
-              Could also have 2 or 6.
-            </h3>
-            <p>
-              In addition to your goal, find out your users’ goals. What do they
-              want to know or do that supports your mission? Use these headings
-              to show those.
-            </p>
-          </div>
-        </div>
-      </div>
     </div>
   </section>
 );
