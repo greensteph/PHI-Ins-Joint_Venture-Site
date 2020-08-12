@@ -10,7 +10,7 @@ const Header = ({ children, siteTitle }) => (
         <em className="usa-logo__text">
           <Link to="/" title="Home" aria-label="Home">
             <img
-              className="usa-media-block tablet:grid-col"
+              className="sg-logo-styles"
               src={logo}
               alt="TyGrove Technologies logo"
             />

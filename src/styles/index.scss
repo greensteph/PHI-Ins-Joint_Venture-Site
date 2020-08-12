@@ -20,6 +20,24 @@ $theme-hero-image: '../images/tysons-evening-walk-edited-1.jpg';
 
 // Your custom SASS/CSS goes here
 
+// logo styles
+.sg-logo-styles {
+  max-width: 55%;
+  margin-bottom: -.75em;
+}
+
+@media screen and (max-width: 500px) {
+  .sg-logo-styles {
+  max-width: 25%;
+  }
+}
+
+@media screen and (min-width: 501px) and (max-width: 1022px) {
+  .sg-logo-styles {
+  max-width: 15%;
+  }
+}
+
 // highlights header color
 .usa-graphic-list__heading {
   color: #fbb040 !important;
