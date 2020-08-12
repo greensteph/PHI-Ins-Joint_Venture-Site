@@ -1,5 +1,6 @@
 import React from 'react';
-import logo from '../../node_modules/uswds/dist/img/logo-img.png';
+import logo from '../../src/images/tygrovetechlogo.png';
+
 
 const Footer = () => (
   <footer className="usa-footer site-footer" role="contentinfo">
@@ -9,7 +10,7 @@ const Footer = () => (
           <div className="tablet:grid-col">
             <div className="logo-links">
               <a className="footer-logo media_link" href="https://18f.gsa.gov">
-                <img src={logo} width="50" alt="Agency logo" />
+                <img src={logo} width="150" alt="Tygrove Technologies logo" />
               </a>
             </div>
           </div>
