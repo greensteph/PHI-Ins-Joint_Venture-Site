@@ -18,9 +18,7 @@ const Highlights = () => (
               Our companies
             </h3>
             <p>
-              Graphic headings can be used a few different ways, depending on
-              what your landing page is for. Highlight your values, specific
-              program areas, or results.
+            Tygrove Technologies is powered by Potomac Haven Inc. and Inserso Corp., partnering to provide our customers with top talent in a range of functional areas.
             </p>
           </div>
         </div>
@@ -31,9 +29,7 @@ const Highlights = () => (
               Our Management Team
             </h3>
             <p>
-              Keep body text to about 30 words. They can be shorter, but try to
-              be somewhat balanced across all four. It creates a clean
-              appearance with good spacing.
+            Our managing partners combine more than 40 years of public sector and industry practice. The teams they manage bring a deep understanding of the federal landscape to each engagement.
             </p>
           </div>
         </div>
