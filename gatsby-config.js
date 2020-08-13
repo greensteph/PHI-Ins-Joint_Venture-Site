@@ -16,7 +16,7 @@ module.exports = {
     ],
     secondaryLinks: [
       { text: 'Potomac Haven Inc.', link: 'https://www.potomachaven.com/' },
-      { text: 'inserso', link: 'https://www.inserso.com/' },
+      { text: 'Inserso', link: 'https://www.inserso.com/' },
     ],
 
     /**
