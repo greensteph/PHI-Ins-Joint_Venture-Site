@@ -133,6 +133,8 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
+              disableBgImage: true,
+              wrapperStyle: `margin-left: -0em`,
               maxWidth: 590,
               path: `${__dirname}/src/images`
             },
