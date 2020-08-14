@@ -10,7 +10,7 @@ Our talented team of seasoned and professionally certified professionals blends 
 
 **Potomac Haven Inc.** is SBA-certified as an 8(a) and economically disadvantaged woman-owned small business. Potomac Haven has forged a specialized practice as a digital-first agency that provides a range of IT project management and digital solutioning, strategic communications, marketing, public engagement, open innovation development and program management services.
 
-**Inserso Corp.** is ISO 9001:2015 (Quality), ISO 20000-1:2011 (ITSM), and ISO 27001:2013 (Security) certified and CMMI-ML3 appraised Small Business. Inserso provides comprehensive technical services for federal agencies, with a rich history of successfully supporting more than 200 IT projects for more than 40 customers since 1994.
+**Inserso Corp.** is ISO 9001:2015 (Quality), ISO 20000-1:2018 (ITSM), and ISO 27001:2013 (Security) certified and CMMI-ML3 appraised Small Business. Inserso provides comprehensive technical services for federal agencies, with a rich history of successfully supporting more than 200 IT projects for more than 40 customers since 1994.
 
 ### Our Management Team
 
