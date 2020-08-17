@@ -6,8 +6,10 @@ import React from 'react';
 
 const Hero = () => (
   <section className="usa-hero height-mobile">
-    <div className="grid-container">
-      {/* <div className="usa-hero__callout">
+    <p className="hero-transparent">
+Image: Rassi G. Borneo, <a href="https://www.timelinedc.com/index">Timeline Media</a>
+    {/* <div className="grid-container">
+      <div className="usa-hero__callout">
         <h2 className="usa-hero__heading">
           <span className="usa-hero__heading--alt">Hero callout:</span>Bring
           attention to a project priority
@@ -19,8 +21,9 @@ const Hero = () => (
         <a className="usa-button" href="/">
           Call to action
         </a>
-      </div> */}
-    </div>
+      </div>
+    </div> */}
+    </p> 
   </section>
 );
 
