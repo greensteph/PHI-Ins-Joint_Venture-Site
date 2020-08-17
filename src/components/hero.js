@@ -7,7 +7,7 @@ import React from 'react';
 const Hero = () => (
   <section className="usa-hero height-mobile">
     <p className="hero-transparent">
-      Image by Rassi G. Borneo - <a href="https://www.timelinedc.com/index">www.timelinedc.com</a>
+Image: Rassi G. Borneo, <a href="https://www.timelinedc.com/index">Timeline Media</a>
     {/* <div className="grid-container">
       <div className="usa-hero__callout">
         <h2 className="usa-hero__heading">
