@@ -5,7 +5,7 @@ import React from 'react';
 */
 
 const Tagline = () => (
-  <section className="grid-container usa-section usa-prose">
+  <section className="grid-container usa-section usa-prose sg-hero-image-credit">
     <div className="grid-row grid-gap">
       <div className="tablet:grid-col-4">
         <h2 className="font-heading-xl margin-top-0 tablet:margin-bottom-0">

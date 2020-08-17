@@ -38,6 +38,17 @@ $theme-hero-image: '../images/tysons-evening-walk-edited-1.jpg';
   }
 }
 
+// hero caption
+.hero-transparent {
+  color: rgba(255,255,255,0.75);
+  margin-top: 13em;
+  padding: 2em !important;
+}
+
+.hero-transparent a{
+  color: rgba(255,255,255,0.75);
+}
+
 // highlights header color
 .usa-graphic-list__heading {
   color: #fbb040 !important;
