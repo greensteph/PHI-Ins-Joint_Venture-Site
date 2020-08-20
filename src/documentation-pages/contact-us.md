@@ -3,17 +3,4 @@ title: Contact Us
 sidenav: false
 ---
 
-# Contact Us
-
-<form class="usa-form" method="POST" name="contact" data-netlify="true" action="/contact-thank-you">
-  <input type="hidden" name="form-name" value="contact" />
-  <fieldset class="usa-fieldset">
-    <label class="usa-label" for="full-name">Name:</label>
-    <input class="usa-input" id="full-name" name="full-name" type="text" required aria-required="true">
-    <label class="usa-label" for="email">Email:</span></label>
-    <input class="usa-input" id="email" name="email" type="text"  required aria-required="true">
-    <label class="usa-label" for="subject">Subject:</label>
-    <textarea class="usa-textarea" id="subject" name="subject" type="text" required aria-required="true"></textarea>
-    <input class="usa-button" type="submit" value="Submit form">
-  </fieldset>
-</form>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8OOMB9IM4MY5eKoHSqrwBPZT3jkEoGX-l0NvtLw9cRFxQ1Q/viewform?embedded=true" width="640" height="670" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
